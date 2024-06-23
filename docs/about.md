@@ -1,8 +1,6 @@
 ---
-title: About
+title: 关于作者
 ---
-# About
-This is the about page of my VitePress blog.
+# B站
+国哥讲全栈： https://space.bilibili.com/525704703?spm_id_from=333.1007.0.0
 
-## Who am I?
-I am a front-end developer who loves creating content with VitePress.

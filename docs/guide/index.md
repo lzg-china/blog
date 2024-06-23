@@ -1,9 +1,10 @@
+<!-- ---
+title: 专高6课程
 ---
-title: Guide
----
-# Guide
-Welcome to the guide section.
+# 专高6课程
+专高6 必备技能 -->
 
-## Table of Contents
-- [Getting Started](./getting-started.md)
-- [Advanced Usage](./advanced-usage.md)
+## 专高6学习清单
+- [1.手写代码](./getting-started.md)
+- [2.Vue3](../vue3/index.md)
+- [3.TypeScript](../ts/index.md)

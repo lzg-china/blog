@@ -1,6 +1,6 @@
 import DefaultTheme from 'vitepress/theme'
-import '../styles/index.css' // 自定义样式
-
+// import '../styles/index.css' // 自定义样式
+import './custom.css'
 export default {
   ...DefaultTheme,
   enhanceApp({ app, router, siteData }) {

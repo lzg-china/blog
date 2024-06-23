@@ -1,10 +1,10 @@
 ---
 title: Home
 ---
-# Welcome to My Blog
-This is the homepage of my VitePress blog.
+# 国哥讲全栈
+B站： https://space.bilibili.com/525704703?spm_id_from=333.1007.0.0
 
-## Features
-- **Fast**: VitePress is super fast.
-- **Markdown**: Write your content in Markdown.
-- **Vue Powered**: Enjoy the power of Vue in your Markdown.
+## 座右铭
+- **生命力的意义在于拚搏，因为世界本身就是一个竞技场**
+- **如果你的面前有阴影，别怕，那是因为你的背后有阳光**
+- **每天都是一个起点，每天都有一点进步，每天都有一点收获**

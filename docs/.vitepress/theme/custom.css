@@ -1,0 +1,6 @@
+:root {
+    --vt-c-brand: #007BFF; /* 主要颜色 */
+    --vt-c-brand-light: #0056b3; /* 次要颜色 */
+    --vt-font-family-base: 'Arial, sans-serif'; /* 基础字体 */
+    --vt-font-family-monospace: 'Courier New, monospace'; /* 等宽字体 */
+  }  
