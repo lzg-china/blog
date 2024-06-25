@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a1 as i}from"./chunks/framework.DYSeicsv.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/index.md","filePath":"guide/index.md"}'),r={name:"guide/index.md"},_=i("",2),n=[_];function o(s,d,c,l,h,u){return a(),t("div",null,n)}const m=e(r,[["render",o]]);export{f as __pageData,m as default};
